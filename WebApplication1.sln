@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{DA16F0E2-0455-4651-99BA-4AE73581D387}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atlas.AspNetCore.Server.Kestrel.Transport.Streams", "Atlas.AspNetCore.Server.Kestrel.Transport.Streams\Atlas.AspNetCore.Server.Kestrel.Transport.Streams.csproj", "{C5E495F0-6053-47AD-926A-97B7B1A72556}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA16F0E2-0455-4651-99BA-4AE73581D387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA16F0E2-0455-4651-99BA-4AE73581D387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA16F0E2-0455-4651-99BA-4AE73581D387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA16F0E2-0455-4651-99BA-4AE73581D387}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5E495F0-6053-47AD-926A-97B7B1A72556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E495F0-6053-47AD-926A-97B7B1A72556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E495F0-6053-47AD-926A-97B7B1A72556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E495F0-6053-47AD-926A-97B7B1A72556}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC8B81BA-F772-4FED-8EDB-289B8FC67CE2}
+	EndGlobalSection
+EndGlobal

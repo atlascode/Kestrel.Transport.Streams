@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <MvcRazorCompileOnPublish>true</MvcRazorCompileOnPublish>
+    <UserSecretsId>aspnet-WebApplication1-DDFE4A18-C9C6-4F3D-9C18-3DADAD8822E6</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Atlas.AspNetCore.Server.Kestrel.Transport.Streams\Atlas.AspNetCore.Server.Kestrel.Transport.Streams.csproj" />
+  </ItemGroup>
+
+</Project>
