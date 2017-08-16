@@ -5,6 +5,18 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
     <ApplicationIcon />
     <StartupObject />
+    <Version>0.1.0</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Dean North</Authors>
+    <Company>Atlas Computer Systems</Company>
+    <Description>Stream based Transport for use with Kestrel Http Server</Description>
+    <PackageLicenseUrl>https://github.com/atlascode/Kestrel.Transport.Streams/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/atlascode/Kestrel.Transport.Streams</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/atlascode/Kestrel.Transport.Streams</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageTags>Kestrel AspNetCore Transport</PackageTags>
+    <AssemblyVersion>0.1.0.0</AssemblyVersion>
+    <FileVersion>0.1.0.0</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>

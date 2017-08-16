@@ -1,6 +1,6 @@
 # Kestrel.Transport.Streams
 
-This project contains the Atlas.AspNetCore.Server.Kestrel.Transport.Streams NuGet package.
+This project contains the [Atlas.AspNetCore.Server.Kestrel.Transport.Streams](https://www.nuget.org/packages/Atlas.AspNetCore.Server.Kestrel.Transport.Streams) NuGet package.
 
 This transport works alongside the existing LibUV or Socket transports. It allows you to make your own internal web requests and pass them through the Kestrel pipeline without the need to open any sockets.
 
